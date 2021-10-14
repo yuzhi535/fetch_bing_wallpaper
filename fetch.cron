@@ -1,0 +1,5 @@
+#!/bin/bash
+
+SHELL=/bin/bash
+
+0 0 * * 5  cd /home/yuxi/PycharmProjects/fetch_wallpapers && ./run.sh  # 每周五0点0分
