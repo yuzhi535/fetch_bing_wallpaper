@@ -22,7 +22,7 @@ def get_image():
 
             with open(base_path+image_name+'.jpg', 'wb') as f:
                f.write(image.content)
-            print(f'the {i+1}th image has been downloaded!')
+            print(f'the {i+1}th {image_name} image has been downloaded!')
         return True
 
     else:

@@ -1,0 +1,15 @@
+Looking in indexes: https://pypi.tuna.tsinghua.edu.cn/simple
+Requirement already satisfied: requests in ./venv/lib/python3.9/site-packages (from -r requirements.txt (line 1)) (2.26.0)
+Requirement already satisfied: charset-normalizer~=2.0.0 in ./venv/lib/python3.9/site-packages (from requests->-r requirements.txt (line 1)) (2.0.7)
+Requirement already satisfied: certifi>=2017.4.17 in ./venv/lib/python3.9/site-packages (from requests->-r requirements.txt (line 1)) (2021.10.8)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in ./venv/lib/python3.9/site-packages (from requests->-r requirements.txt (line 1)) (1.26.7)
+Requirement already satisfied: idna<4,>=2.5 in ./venv/lib/python3.9/site-packages (from requests->-r requirements.txt (line 1)) (3.3)
+WARNING: You are using pip version 21.1.1; however, version 22.0.3 is available.
+You should consider upgrading via the '/home/yuxi/PycharmProjects/fetch_wallpapers/venv/bin/python -m pip install --upgrade pip' command.
+the 1th 20220219 image has been downloaded!
+the 2th 20220218 image has been downloaded!
+the 3th 20220217 image has been downloaded!
+the 4th 20220216 image has been downloaded!
+the 5th 20220215 image has been downloaded!
+the 6th 20220214 image has been downloaded!
+the 7th 20220213 image has been downloaded!
